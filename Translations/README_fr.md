@@ -95,7 +95,7 @@ Modifiez votre "Cartfile" et spécifiez la dépendance:
 github "Juanpe/SkeletonView"
 ```
 
-#### Utilisation du [gestionnaire de paquets Swift](https://github.com/apple/swift-package-manager)
+#### Utilisation du [gestionnaire de paquets Swift](https://swift.org/package-manager/)
 
 Une fois que vous avez configuré votre paquet Swift, ajouter `SkeletonView` comme dépendance est aussi facile que de l'ajouter à la valeur des `dépendances` de votre `Package.swift`.
 
