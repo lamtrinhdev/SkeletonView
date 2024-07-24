@@ -87,7 +87,7 @@ pod "SkeletonView"
 github "Juanpe/SkeletonView"
 ```
 
-#### [Swift Package Manager](https://github.com/apple/swift-package-manager)로 사용하기
+#### [Swift Package Manager](https://swift.org/package-manager/)로 사용하기
 
 
 당신의 프로젝트에 Swift package를 설정한다면, `SkeletonView` 를 `Package.swift` 파일에 있는 `dependencies`에 추가하시면 됩니다.
